@@ -16,6 +16,7 @@ move across a 12-square journey from Gully to Raj Mahal.
 Install the Flutter SDK, then run:
 
 ```bash
+flutter create --platforms=android,ios .
 flutter pub get
 flutter run
 ```
